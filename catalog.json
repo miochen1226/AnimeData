@@ -25,6 +25,14 @@
       "cover": "thumbs/zuoheouxiangshichuanqi_riyu/cover.jpg",
       "source": "shows/zuoheouxiangshichuanqi_riyu.json",
       "episodeCount": 24
+    },
+    {
+      "id": "qihun_guoyu",
+      "title": "棋魂（棋靈王、光之棋）【國語】",
+      "titleEn": "Hikaru no Go (Mandarin)",
+      "cover": "thumbs/qihun_guoyu/cover.jpg",
+      "source": "shows/qihun_guoyu.json",
+      "episodeCount": 76
     }
   ]
 }

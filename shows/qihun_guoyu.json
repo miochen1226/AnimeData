@@ -1,0 +1,464 @@
+{
+  "id": "qihun_guoyu",
+  "title": "棋魂（棋靈王、光之棋）【國語】",
+  "titleEn": "Hikaru no Go (Mandarin)",
+  "cover": "thumbs/qihun_guoyu/cover.jpg",
+  "episodes": [
+    {
+      "ep": 1,
+      "title": "01 永远的敌人",
+      "thumb": "thumbs/qihun_guoyu/ep_001.jpg",
+      "url": "https://xgct-video.bzcdn.net/bceee279-9748-4a4f-875f-210fe842e284/playlist.m3u8"
+    },
+    {
+      "ep": 2,
+      "title": "02 被识破的要害",
+      "thumb": "thumbs/qihun_guoyu/ep_002.jpg",
+      "url": "https://xgct-video.bzcdn.net/4598b8eb-7d2a-4e14-8273-38f6dddbf76c/playlist.m3u8"
+    },
+    {
+      "ep": 3,
+      "title": "03 气势滔滔的小亮",
+      "thumb": "thumbs/qihun_guoyu/ep_003.jpg",
+      "url": "https://xgct-video.bzcdn.net/152181bf-6a52-479f-9f84-9d47d532a074/playlist.m3u8"
+    },
+    {
+      "ep": 4,
+      "title": "04 将棋社的加贺",
+      "thumb": "thumbs/qihun_guoyu/ep_004.jpg",
+      "url": "https://xgct-video.bzcdn.net/b124142d-100a-42aa-b349-01ebd3dadc2c/playlist.m3u8"
+    },
+    {
+      "ep": 5,
+      "title": "05 觉醒的预感",
+      "thumb": "thumbs/qihun_guoyu/ep_005.jpg",
+      "url": "https://xgct-video.bzcdn.net/fe68e79e-b7ec-4901-bc46-838b0bea2191/playlist.m3u8"
+    },
+    {
+      "ep": 6,
+      "title": "06 最美的一局",
+      "thumb": "thumbs/qihun_guoyu/ep_006.jpg",
+      "url": "https://xgct-video.bzcdn.net/fb00eb5d-bfc9-4e8a-b2c1-44f2dfb5b8cd/playlist.m3u8"
+    },
+    {
+      "ep": 7,
+      "title": "07 我不跟你对弈",
+      "thumb": "thumbs/qihun_guoyu/ep_007.jpg",
+      "url": "https://xgct-video.bzcdn.net/c038e7a9-b2b6-41c3-891b-9fed5bc7b43c/playlist.m3u8"
+    },
+    {
+      "ep": 8,
+      "title": "08 雨中的策略",
+      "thumb": "thumbs/qihun_guoyu/ep_008.jpg",
+      "url": "https://xgct-video.bzcdn.net/20ac1e29-112d-4675-80ac-7720623ab08e/playlist.m3u8"
+    },
+    {
+      "ep": 9,
+      "title": "09 碍眼的家伙",
+      "thumb": "thumbs/qihun_guoyu/ep_009.jpg",
+      "url": "https://xgct-video.bzcdn.net/9955f60d-6b3d-46b6-8e37-c016428e9f16/playlist.m3u8"
+    },
+    {
+      "ep": 10,
+      "title": "10 第三个成员",
+      "thumb": "thumbs/qihun_guoyu/ep_010.jpg",
+      "url": "https://xgct-video.bzcdn.net/d2b58ceb-fba8-46aa-8764-6c88ec16d3c4/playlist.m3u8"
+    },
+    {
+      "ep": 11,
+      "title": "11 最卑劣的行为",
+      "thumb": "thumbs/qihun_guoyu/ep_011.jpg",
+      "url": "https://xgct-video.bzcdn.net/4602db9a-e90e-4311-af84-aca68c8277e6/playlist.m3u8"
+    },
+    {
+      "ep": 12,
+      "title": "12 三将就是你",
+      "thumb": "thumbs/qihun_guoyu/ep_012.jpg",
+      "url": "https://xgct-video.bzcdn.net/a2e8d0be-8da3-4c59-8559-2fbcede390cd/playlist.m3u8"
+    },
+    {
+      "ep": 13,
+      "title": "13 每个人的决心",
+      "thumb": "thumbs/qihun_guoyu/ep_013.jpg",
+      "url": "https://xgct-video.bzcdn.net/8d9609dc-36d6-470f-b888-321594b13363/playlist.m3u8"
+    },
+    {
+      "ep": 14,
+      "title": "14 第三次的对弈",
+      "thumb": "thumbs/qihun_guoyu/ep_014.jpg",
+      "url": "https://xgct-video.bzcdn.net/128cd096-d783-4f1c-abb5-2763268ab1f6/playlist.m3u8"
+    },
+    {
+      "ep": 15,
+      "title": "15 隐藏在网路上的棋士",
+      "thumb": "thumbs/qihun_guoyu/ep_015.jpg",
+      "url": "https://xgct-video.bzcdn.net/ca42d784-863e-45d0-bf5d-42fd9674939f/playlist.m3u8"
+    },
+    {
+      "ep": 16,
+      "title": "16 Sai是何方神圣",
+      "thumb": "thumbs/qihun_guoyu/ep_016.jpg",
+      "url": "https://xgct-video.bzcdn.net/456888ab-0d55-497c-b60a-bb32b8b90449/playlist.m3u8"
+    },
+    {
+      "ep": 17,
+      "title": "17 追忆的一局",
+      "thumb": "thumbs/qihun_guoyu/ep_017.jpg",
+      "url": "https://xgct-video.bzcdn.net/d00acca8-0a50-46cf-b011-5b837eb26292/playlist.m3u8"
+    },
+    {
+      "ep": 18,
+      "title": "18 小亮VS佐为",
+      "thumb": "thumbs/qihun_guoyu/ep_018.jpg",
+      "url": "https://xgct-video.bzcdn.net/3f10fad1-35b5-4975-9912-cc7b924de4e1/playlist.m3u8"
+    },
+    {
+      "ep": 19,
+      "title": "19 小光的实力",
+      "thumb": "thumbs/qihun_guoyu/ep_019.jpg",
+      "url": "https://xgct-video.bzcdn.net/5cbe1ecb-ce1a-46f9-b4af-e1154904c5f0/playlist.m3u8"
+    },
+    {
+      "ep": 20,
+      "title": "20 朝向职业棋士之路",
+      "thumb": "thumbs/qihun_guoyu/ep_020.jpg",
+      "url": "https://xgct-video.bzcdn.net/80b3fafa-8295-4ffc-bd7c-c28b2e7902ec/playlist.m3u8"
+    },
+    {
+      "ep": 21,
+      "title": "21 叶濑国中棋社",
+      "thumb": "thumbs/qihun_guoyu/ep_021.jpg",
+      "url": "https://xgct-video.bzcdn.net/60cb33f4-693e-438f-b35d-84bd651e4f3b/playlist.m3u8"
+    },
+    {
+      "ep": 22,
+      "title": "22 院生考试",
+      "thumb": "thumbs/qihun_guoyu/ep_022.jpg",
+      "url": "https://xgct-video.bzcdn.net/57f896b6-0ab0-411b-8097-d996102df7cd/playlist.m3u8"
+    },
+    {
+      "ep": 23,
+      "title": "23 幽玄之间",
+      "thumb": "thumbs/qihun_guoyu/ep_023.jpg",
+      "url": "https://xgct-video.bzcdn.net/bf15e97a-f48c-43fc-8151-356672db75a3/playlist.m3u8"
+    },
+    {
+      "ep": 24,
+      "title": "24 王座VS塔矢亮",
+      "thumb": "thumbs/qihun_guoyu/ep_024.jpg",
+      "url": "https://xgct-video.bzcdn.net/69e6dc6b-4a54-4711-b1c4-11a9fab041c1/playlist.m3u8"
+    },
+    {
+      "ep": 25,
+      "title": "25 恐惧与焦躁交织",
+      "thumb": "thumbs/qihun_guoyu/ep_025.jpg",
+      "url": "https://xgct-video.bzcdn.net/6924c4fd-63b3-4e2d-84f3-f3c6bec217f0/playlist.m3u8"
+    },
+    {
+      "ep": 26,
+      "title": "26 欢迎来到一组",
+      "thumb": "thumbs/qihun_guoyu/ep_026.jpg",
+      "url": "https://xgct-video.bzcdn.net/3fcababe-82c2-43fe-9d54-1440886b0b35/playlist.m3u8"
+    },
+    {
+      "ep": 27,
+      "title": "27 想回以前的地方看看",
+      "thumb": "thumbs/qihun_guoyu/ep_027.jpg",
+      "url": "https://xgct-video.bzcdn.net/a2684a7a-3ba7-4e10-a07e-6b4992d01398/playlist.m3u8"
+    },
+    {
+      "ep": 28,
+      "title": "28 幼狮赛战",
+      "thumb": "thumbs/qihun_guoyu/ep_028.jpg",
+      "url": "https://xgct-video.bzcdn.net/1163fd34-ff3e-4ac1-86e7-96648b3a0df0/playlist.m3u8"
+    },
+    {
+      "ep": 29,
+      "title": "29 桑原本因坊",
+      "thumb": "thumbs/qihun_guoyu/ep_029.jpg",
+      "url": "https://xgct-video.bzcdn.net/dc28b543-a023-4681-95c7-38e17c090635/playlist.m3u8"
+    },
+    {
+      "ep": 30,
+      "title": "30 绪方VS本因坊",
+      "thumb": "thumbs/qihun_guoyu/ep_030.jpg",
+      "url": "https://xgct-video.bzcdn.net/6dafe44b-c0e4-4583-8981-8eb2b5cd870a/playlist.m3u8"
+    },
+    {
+      "ep": 31,
+      "title": "31 职业考试预赛开始",
+      "thumb": "thumbs/qihun_guoyu/ep_031.jpg",
+      "url": "https://xgct-video.bzcdn.net/1db18302-0947-459e-b28c-0915d285392b/playlist.m3u8"
+    },
+    {
+      "ep": 32,
+      "title": "32 职业考试预赛最后一天",
+      "thumb": "thumbs/qihun_guoyu/ep_032.jpg",
+      "url": "https://xgct-video.bzcdn.net/6d7209c5-c18a-43fe-b3d3-217eecf8a1e3/playlist.m3u8"
+    },
+    {
+      "ep": 33,
+      "title": "33 组成团体队",
+      "thumb": "thumbs/qihun_guoyu/ep_033.jpg",
+      "url": "https://xgct-video.bzcdn.net/f62b0e28-16d0-4822-8c07-5c458a0952eb/playlist.m3u8"
+    },
+    {
+      "ep": 34,
+      "title": "34 不可以获胜",
+      "thumb": "thumbs/qihun_guoyu/ep_034.jpg",
+      "url": "https://xgct-video.bzcdn.net/635cf9ce-e922-4122-90f6-9fd9a69f4145/playlist.m3u8"
+    },
+    {
+      "ep": 35,
+      "title": "35 胜利者只有一个人",
+      "thumb": "thumbs/qihun_guoyu/ep_035.jpg",
+      "url": "https://xgct-video.bzcdn.net/e78e681c-a183-41f4-83a8-6bcbb6d58bf3/playlist.m3u8"
+    },
+    {
+      "ep": 36,
+      "title": "36 我的名字",
+      "thumb": "thumbs/qihun_guoyu/ep_036.jpg",
+      "url": "https://xgct-video.bzcdn.net/eccceb71-0c31-46ed-925e-0d88da08047d/playlist.m3u8"
+    },
+    {
+      "ep": 37,
+      "title": "37 正式考试开始",
+      "thumb": "thumbs/qihun_guoyu/ep_037.jpg",
+      "url": "https://xgct-video.bzcdn.net/dbe819b7-e1a1-4b2d-b56f-5a964a1e9dee/playlist.m3u8"
+    },
+    {
+      "ep": 38,
+      "title": "38 挑战者们",
+      "thumb": "thumbs/qihun_guoyu/ep_038.jpg",
+      "url": "https://xgct-video.bzcdn.net/fae68bd2-a096-4456-9c14-ba52f26797e2/playlist.m3u8"
+    },
+    {
+      "ep": 39,
+      "title": "39 着魔的瞬间",
+      "thumb": "thumbs/qihun_guoyu/ep_039.jpg",
+      "url": "https://xgct-video.bzcdn.net/c7b57037-3e24-4048-9330-3e9cdc2eea0e/playlist.m3u8"
+    },
+    {
+      "ep": 40,
+      "title": "40 谁能得到白星",
+      "thumb": "thumbs/qihun_guoyu/ep_040.jpg",
+      "url": "https://xgct-video.bzcdn.net/50377dd4-ccf2-4362-85f2-c1481318284d/playlist.m3u8"
+    },
+    {
+      "ep": 41,
+      "title": "41 三周的时间太短",
+      "thumb": "thumbs/qihun_guoyu/ep_041.jpg",
+      "url": "https://xgct-video.bzcdn.net/b242ba35-b322-4617-8c86-eb39f8c6f924/playlist.m3u8"
+    },
+    {
+      "ep": 42,
+      "title": "42 第一个合格者",
+      "thumb": "thumbs/qihun_guoyu/ep_042.jpg",
+      "url": "https://xgct-video.bzcdn.net/aeea518f-2f53-45cb-b650-fc63fed80ecc/playlist.m3u8"
+    },
+    {
+      "ep": 43,
+      "title": "43 小光VS和谷",
+      "thumb": "thumbs/qihun_guoyu/ep_043.jpg",
+      "url": "https://xgct-video.bzcdn.net/9ddb76cf-c13e-431f-b76e-5f7572e84904/playlist.m3u8"
+    },
+    {
+      "ep": 44,
+      "title": "44 起死回生",
+      "thumb": "thumbs/qihun_guoyu/ep_044.jpg",
+      "url": "https://xgct-video.bzcdn.net/01c9a355-96cb-4f16-aa14-51127528eaf8/playlist.m3u8"
+    },
+    {
+      "ep": 45,
+      "title": "45 小光VS越智",
+      "thumb": "thumbs/qihun_guoyu/ep_045.jpg",
+      "url": "https://xgct-video.bzcdn.net/068b9dfc-e82f-453d-8380-0d407ea1de2d/playlist.m3u8"
+    },
+    {
+      "ep": 46,
+      "title": "46 职业棋士考试最后一天",
+      "thumb": "thumbs/qihun_guoyu/ep_046.jpg",
+      "url": "https://xgct-video.bzcdn.net/543fd6d2-b687-43bf-a328-3ff4e2e3d076/playlist.m3u8"
+    },
+    {
+      "ep": 47,
+      "title": "47 踏入职业棋士世界",
+      "thumb": "thumbs/qihun_guoyu/ep_047.jpg",
+      "url": "https://xgct-video.bzcdn.net/7e3cd3ba-b49a-41a9-8987-03412a0d3790/playlist.m3u8"
+    },
+    {
+      "ep": 48,
+      "title": "48 佐为VS名人",
+      "thumb": "thumbs/qihun_guoyu/ep_048.jpg",
+      "url": "https://xgct-video.bzcdn.net/f85cebae-35a7-41bb-9031-d1c12220db57/playlist.m3u8"
+    },
+    {
+      "ep": 49,
+      "title": "49 不顾一切的一局",
+      "thumb": "thumbs/qihun_guoyu/ep_049.jpg",
+      "url": "https://xgct-video.bzcdn.net/1a0abc3a-7d65-484c-8223-573788e76433/playlist.m3u8"
+    },
+    {
+      "ep": 50,
+      "title": "50 藤原佐为",
+      "thumb": "thumbs/qihun_guoyu/ep_050.jpg",
+      "url": "https://xgct-video.bzcdn.net/544cc377-c9ee-4b8b-b856-5fb27888cc42/playlist.m3u8"
+    },
+    {
+      "ep": 51,
+      "title": "51 仓田六段",
+      "thumb": "thumbs/qihun_guoyu/ep_051.jpg",
+      "url": "https://xgct-video.bzcdn.net/08c78970-74ae-4893-996d-7fd608379502/playlist.m3u8"
+    },
+    {
+      "ep": 52,
+      "title": "52 小光VS小亮",
+      "thumb": "thumbs/qihun_guoyu/ep_052.jpg",
+      "url": "https://xgct-video.bzcdn.net/288fa8f9-9efd-4dc1-9b51-eab3cb674dbc/playlist.m3u8"
+    },
+    {
+      "ep": 53,
+      "title": "53 Sai的告白",
+      "thumb": "thumbs/qihun_guoyu/ep_053.jpg",
+      "url": "https://xgct-video.bzcdn.net/c10cadbb-9485-49d8-bb47-3fed5bc5a7cd/playlist.m3u8"
+    },
+    {
+      "ep": 54,
+      "title": "54 亢奋的心",
+      "thumb": "thumbs/qihun_guoyu/ep_054.jpg",
+      "url": "https://xgct-video.bzcdn.net/6c9349d4-187a-4d69-a510-f304f0486059/playlist.m3u8"
+    },
+    {
+      "ep": 55,
+      "title": "55 Sai VS ToyaKoyo",
+      "thumb": "thumbs/qihun_guoyu/ep_055.jpg",
+      "url": "https://xgct-video.bzcdn.net/d78001a9-5bf6-4db4-8f0c-f299d731f8bb/playlist.m3u8"
+    },
+    {
+      "ep": 56,
+      "title": "56 千年的答案",
+      "thumb": "thumbs/qihun_guoyu/ep_056.jpg",
+      "url": "https://xgct-video.bzcdn.net/22593fd1-95d9-4a8d-ad00-d4662da3ba23/playlist.m3u8"
+    },
+    {
+      "ep": 57,
+      "title": "57 让我跟Sai对弈",
+      "thumb": "thumbs/qihun_guoyu/ep_057.jpg",
+      "url": "https://xgct-video.bzcdn.net/73f39397-afde-4d63-acdc-54cc326d334c/playlist.m3u8"
+    },
+    {
+      "ep": 58,
+      "title": "58 一色棋",
+      "thumb": "thumbs/qihun_guoyu/ep_058.jpg",
+      "url": "https://xgct-video.bzcdn.net/62d1b0d4-eadf-4a18-9564-65c4d5c2fc05/playlist.m3u8"
+    },
+    {
+      "ep": 59,
+      "title": "59 塔矢行洋引退",
+      "thumb": "thumbs/qihun_guoyu/ep_059.jpg",
+      "url": "https://xgct-video.bzcdn.net/2c924d22-e615-4d23-bca3-a592566e70d0/playlist.m3u8"
+    },
+    {
+      "ep": 60,
+      "title": "60 再见了！小光",
+      "thumb": "thumbs/qihun_guoyu/ep_060.jpg",
+      "url": "https://xgct-video.bzcdn.net/75c0fbcd-529e-48cc-8bf4-f14e0cd7c6c1/playlist.m3u8"
+    },
+    {
+      "ep": 61,
+      "title": "61 佐为不见了？",
+      "thumb": "thumbs/qihun_guoyu/ep_061.jpg",
+      "url": "https://xgct-video.bzcdn.net/146ce47f-7dea-4384-b586-93d9051ed823/playlist.m3u8"
+    },
+    {
+      "ep": 62,
+      "title": "62 广岛最强的棋士",
+      "thumb": "thumbs/qihun_guoyu/ep_062.jpg",
+      "url": "https://xgct-video.bzcdn.net/26908f98-fe99-4853-bd6a-b175ec549594/playlist.m3u8"
+    },
+    {
+      "ep": 63,
+      "title": "63 不再下棋",
+      "thumb": "thumbs/qihun_guoyu/ep_063.jpg",
+      "url": "https://xgct-video.bzcdn.net/6658c22e-d6b5-4957-989d-f8de125d277b/playlist.m3u8"
+    },
+    {
+      "ep": 64,
+      "title": "64 庆长的花器（番外篇）",
+      "thumb": "thumbs/qihun_guoyu/ep_064.jpg",
+      "url": "https://xgct-video.bzcdn.net/e7f13a97-f45d-4562-b851-2a7338ad626f/playlist.m3u8"
+    },
+    {
+      "ep": 65,
+      "title": "65 中国棋院",
+      "thumb": "thumbs/qihun_guoyu/ep_065.jpg",
+      "url": "https://xgct-video.bzcdn.net/364646f9-b2e9-4dc6-8344-a660ffcc8fe2/playlist.m3u8"
+    },
+    {
+      "ep": 66,
+      "title": "66 命运般的相遇（番外篇）",
+      "thumb": "thumbs/qihun_guoyu/ep_066.jpg",
+      "url": "https://xgct-video.bzcdn.net/e87b8592-8067-4489-8251-713da41e8fa5/playlist.m3u8"
+    },
+    {
+      "ep": 67,
+      "title": "67 历经考验的伊角",
+      "thumb": "thumbs/qihun_guoyu/ep_067.jpg",
+      "url": "https://xgct-video.bzcdn.net/c851af7e-3aa3-4819-a41a-a55d37f9d429/playlist.m3u8"
+    },
+    {
+      "ep": 68,
+      "title": "68 不战而败",
+      "thumb": "thumbs/qihun_guoyu/ep_068.jpg",
+      "url": "https://xgct-video.bzcdn.net/906497ae-5e39-45ce-93b1-5ff130b79115/playlist.m3u8"
+    },
+    {
+      "ep": 69,
+      "title": "69 意志坚定的访客",
+      "thumb": "thumbs/qihun_guoyu/ep_069.jpg",
+      "url": "https://xgct-video.bzcdn.net/c2553d20-8792-4f23-b661-e03033d7238a/playlist.m3u8"
+    },
+    {
+      "ep": 70,
+      "title": "70 佐为在这里……",
+      "thumb": "thumbs/qihun_guoyu/ep_070.jpg",
+      "url": "https://xgct-video.bzcdn.net/e2329897-715f-4a96-a736-e95d63968507/playlist.m3u8"
+    },
+    {
+      "ep": 71,
+      "title": "71 复出第一战",
+      "thumb": "thumbs/qihun_guoyu/ep_071.jpg",
+      "url": "https://xgct-video.bzcdn.net/e93b0109-3d4e-4710-b804-91ea70fd5cd3/playlist.m3u8"
+    },
+    {
+      "ep": 72,
+      "title": "72 勇往直前的两人",
+      "thumb": "thumbs/qihun_guoyu/ep_072.jpg",
+      "url": "https://xgct-video.bzcdn.net/36670f84-6734-4cde-895a-e2559089737b/playlist.m3u8"
+    },
+    {
+      "ep": 73,
+      "title": "73 进藤VS塔矢",
+      "thumb": "thumbs/qihun_guoyu/ep_073.jpg",
+      "url": "https://xgct-video.bzcdn.net/c7acf54d-4c8e-424a-af42-75fb5ebae86a/playlist.m3u8"
+    },
+    {
+      "ep": 74,
+      "title": "74 在你心中",
+      "thumb": "thumbs/qihun_guoyu/ep_074.jpg",
+      "url": "https://xgct-video.bzcdn.net/41e784e4-6f74-451f-bd1d-93f5f5caba8f/playlist.m3u8"
+    },
+    {
+      "ep": 75,
+      "title": "75 令人怀念的微笑",
+      "thumb": "thumbs/qihun_guoyu/ep_075.jpg",
+      "url": "https://xgct-video.bzcdn.net/fbc5570e-7b27-4b67-934d-a2771eb45c6c/playlist.m3u8"
+    },
+    {
+      "ep": 76,
+      "title": "特别篇 迈向北斗杯之路",
+      "thumb": "thumbs/qihun_guoyu/ep_076.jpg",
+      "url": "https://xgct-video.bzcdn.net/5060c4fc-28b3-465a-a20e-bbdf0e8c5d6d/playlist.m3u8"
+    }
+  ]
+}
