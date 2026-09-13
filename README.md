@@ -66,3 +66,4 @@ thumbs/<id>/ep_001.jpg    # 各集縮圖
 | id | 作品 | 集數 |
 |----|------|------|
 | steins_gate | 命運石之門 | 50 |
+| nigumiaomiao_riyu | 尼古喵喵【日語】 | 10 |

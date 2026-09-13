@@ -9,6 +9,14 @@
       "cover": "thumbs/steins_gate/cover.jpg",
       "source": "shows/steins_gate.json",
       "episodeCount": 50
+    },
+    {
+      "id": "nigumiaomiao_riyu",
+      "title": "尼古喵喵【日語】",
+      "titleEn": "Nigumiaomiao (Japanese)",
+      "cover": "thumbs/nigumiaomiao_riyu/cover.jpg",
+      "source": "shows/nigumiaomiao_riyu.json",
+      "episodeCount": 10
     }
   ]
 }

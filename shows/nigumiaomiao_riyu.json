@@ -1,0 +1,68 @@
+{
+  "id": "nigumiaomiao_riyu",
+  "title": "尼古喵喵【日語】",
+  "titleEn": "Nigumiaomiao (Japanese)",
+  "cover": "thumbs/nigumiaomiao_riyu/cover.jpg",
+  "episodes": [
+    {
+      "ep": 1,
+      "title": "第01話",
+      "thumb": "thumbs/nigumiaomiao_riyu/ep_001.jpg",
+      "url": "https://xgct-video.bzcdn.net/44b1ad7d-d410-4154-be1f-ef815b0ec51e/playlist.m3u8"
+    },
+    {
+      "ep": 2,
+      "title": "第02話",
+      "thumb": "thumbs/nigumiaomiao_riyu/ep_002.jpg",
+      "url": "https://xgct-video.bzcdn.net/a0b91c03-1469-43e7-9c61-24e64241ca53/playlist.m3u8"
+    },
+    {
+      "ep": 3,
+      "title": "第03話",
+      "thumb": "thumbs/nigumiaomiao_riyu/ep_003.jpg",
+      "url": "https://xgct-video.bzcdn.net/ab1e13b2-0bae-440f-80cd-5667f74b138b/playlist.m3u8"
+    },
+    {
+      "ep": 4,
+      "title": "第04話",
+      "thumb": "thumbs/nigumiaomiao_riyu/ep_004.jpg",
+      "url": "https://xgct-video.bzcdn.net/b3782dad-8765-424e-be73-99db4c1693c8/playlist.m3u8"
+    },
+    {
+      "ep": 5,
+      "title": "第05話",
+      "thumb": "thumbs/nigumiaomiao_riyu/ep_005.jpg",
+      "url": "https://xgct-video.bzcdn.net/c61ac942-5162-44e2-9051-2473e72de7f5/playlist.m3u8"
+    },
+    {
+      "ep": 6,
+      "title": "第06話",
+      "thumb": "thumbs/nigumiaomiao_riyu/ep_006.jpg",
+      "url": "https://xgct-video.bzcdn.net/f11ccd78-4c93-4d2e-8113-2122e45b3d35/playlist.m3u8"
+    },
+    {
+      "ep": 7,
+      "title": "第07話",
+      "thumb": "thumbs/nigumiaomiao_riyu/ep_007.jpg",
+      "url": "https://xgct-video.bzcdn.net/b2486d9b-fc65-44c9-ac95-7482ee42746d/playlist.m3u8"
+    },
+    {
+      "ep": 8,
+      "title": "第08話",
+      "thumb": "thumbs/nigumiaomiao_riyu/ep_008.jpg",
+      "url": "https://xgct-video.bzcdn.net/c61eb7b3-1ef5-47e6-9c81-74251aaa1661/playlist.m3u8"
+    },
+    {
+      "ep": 9,
+      "title": "第09話",
+      "thumb": "thumbs/nigumiaomiao_riyu/ep_009.jpg",
+      "url": "https://xgct-video.bzcdn.net/171ab0cc-ba45-4206-9984-58bca9a7781e/playlist.m3u8"
+    },
+    {
+      "ep": 10,
+      "title": "第10話",
+      "thumb": "thumbs/nigumiaomiao_riyu/ep_010.jpg",
+      "url": "https://xgct-video.bzcdn.net/15c6ed78-ed80-4a90-9135-200ea0fd45f7/playlist.m3u8"
+    }
+  ]
+}
