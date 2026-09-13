@@ -1,3 +1,14 @@
+---
+AIGC:
+    Label: "1"
+    ContentProducer: 001191440300708461136T1XGW3
+    ProduceID: 5390991e442c1cc0a64dcd85c8a2ecc3_b0ed2b09af3e11f18f50525400aeaaa3
+    ReservedCode1: /ZuW3Yd1kiYZr2LOZoCouhcOB2YL6tZF+CQM9f2y/dMdNkJ6CqXp57BZ7xXOCjznHBWo6YPq/xlzn/GN7qKvJPjiQuoBXXv24IzQ5CkTfdQRwgKRJJLz4Pdhf6ZY0jmYJatUIqyzm8F6AQ2pmUDj2Kj51gGuJfb26JGIqB6qUkBz8dQzIFf1pUTX1Dg=
+    ContentPropagator: 001191440300708461136T1XGW3
+    PropagateID: 5390991e442c1cc0a64dcd85c8a2ecc3_b0ed2b09af3e11f18f50525400aeaaa3
+    ReservedCode2: /ZuW3Yd1kiYZr2LOZoCouhcOB2YL6tZF+CQM9f2y/dMdNkJ6CqXp57BZ7xXOCjznHBWo6YPq/xlzn/GN7qKvJPjiQuoBXXv24IzQ5CkTfdQRwgKRJJLz4Pdhf6ZY0jmYJatUIqyzm8F6AQ2pmUDj2Kj51gGuJfb26JGIqB6qUkBz8dQzIFf1pUTX1Dg=
+---
+
 # AnimeData
 
 Android TV 動畫櫃 App 的片單資料源。App 只讀這裡的 JSON 與縮圖，**要加片、改片單，只改這個倉庫，不用重新編譯 APK**。
@@ -67,3 +78,4 @@ thumbs/<id>/ep_001.jpg    # 各集縮圖
 |----|------|------|
 | steins_gate | 命運石之門 | 50 |
 | nigumiaomiao_riyu | 尼古喵喵【日語】 | 10 |
+*（内容由AI生成，仅供参考）*
