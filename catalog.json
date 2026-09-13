@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "updated": "2026-09-13",
+  "shows": [
+    {
+      "id": "steins_gate",
+      "title": "命運石之門",
+      "titleEn": "Steins;Gate",
+      "cover": "thumbs/steins_gate/cover.jpg",
+      "source": "shows/steins_gate.json",
+      "episodeCount": 50
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "id": "steins_gate",
+  "title": "命運石之門",
+  "titleEn": "Steins;Gate",
+  "cover": "thumbs/steins_gate/cover.jpg",
+  "episodes": [
+    {
+      "ep": 1,
+      "title": "開始與終結的序章",
+      "thumb": "thumbs/steins_gate/ep_001.jpg",
+      "url": "https://xgct-video.bzcdn.net/6efde936-bc2e-418b-824a-6327b4789bf4/playlist.m3u8"
+    },
+    {
+      "ep": 2,
+      "title": "時空跳躍的偏執狂",
+      "thumb": "thumbs/steins_gate/ep_002.jpg",
+      "url": "https://xgct-video.bzcdn.net/69149bd5-cf84-4af4-bde7-b01932e8d540/playlist.m3u8"
+    },
+    {
+      "ep": 3,
+      "title": "平行時空的偏執狂",
+      "thumb": "thumbs/steins_gate/ep_003.jpg",
+      "url": "https://xgct-video.bzcdn.net/8d9aa3a8-6fb3-4621-aaf4-c498a9d151fb/playlist.m3u8"
+    },
+    {
+      "ep": 4,
+      "title": "空理彷徨的會面",
+      "thumb": "thumbs/steins_gate/ep_004.jpg",
+      "url": "https://xgct-video.bzcdn.net/8671f9eb-b146-4b74-9f4a-d9cf331c74e7/playlist.m3u8"
+    },
+    {
+      "ep": 5,
+      "title": "電荷衝突的會面",
+      "thumb": "thumbs/steins_gate/ep_005.jpg",
+      "url": "https://xgct-video.bzcdn.net/5504381d-1968-4855-af2d-cb2b408be94c/playlist.m3u8"
+    },
+    {
+      "ep": 6,
+      "title": "蝶翼的分歧",
+      "thumb": "thumbs/steins_gate/ep_006.jpg",
+      "url": "https://xgct-video.bzcdn.net/c9278fb5-5b20-444c-be73-4285e006ef40/playlist.m3u8"
+    },
+    {
+      "ep": 7,
+      "title": "斷層的分歧",
+      "thumb": "thumbs/steins_gate/ep_007.jpg",
+      "url": "https://xgct-video.bzcdn.net/ae1627f4-6ff7-4f5a-a45a-7418dc56f4cc/playlist.m3u8"
+    },
+    {
+      "ep": 8,
+      "title": "夢幻的自平衡",
+      "thumb": "thumbs/steins_gate/ep_008.jpg",
+      "url": "https://xgct-video.bzcdn.net/7801a935-0189-4356-8a8f-2352ff0dd057/playlist.m3u8"
+    },
+    {
+      "ep": 9,
+      "title": "幻相的自平衡",
+      "thumb": "thumbs/steins_gate/ep_009.jpg",
+      "url": "https://xgct-video.bzcdn.net/3f8bfe69-68db-4564-af92-4d97bdc1a240/playlist.m3u8"
+    },
+    {
+      "ep": 10,
+      "title": "相生的自平衡",
+      "thumb": "thumbs/steins_gate/ep_010.jpg",
+      "url": "https://xgct-video.bzcdn.net/ad16bf7b-6542-4d27-be11-c8ffa58003b4/playlist.m3u8"
+    },
+    {
+      "ep": 11,
+      "title": "時空境界的信條",
+      "thumb": "thumbs/steins_gate/ep_011.jpg",
+      "url": "https://xgct-video.bzcdn.net/129853a6-af8d-49c8-91fc-fcef096cd8f2/playlist.m3u8"
+    },
+    {
+      "ep": 12,
+      "title": "靜止界限的信條",
+      "thumb": "thumbs/steins_gate/ep_012.jpg",
+      "url": "https://xgct-video.bzcdn.net/d6cbd8f1-3466-43ae-bc33-3992d6408178/playlist.m3u8"
+    },
+    {
+      "ep": 13,
+      "title": "形而上的壞死",
+      "thumb": "thumbs/steins_gate/ep_013.jpg",
+      "url": "https://xgct-video.bzcdn.net/b996574f-5aea-422a-9498-77a2cd2a7c3d/playlist.m3u8"
+    },
+    {
+      "ep": 14,
+      "title": "形而下的壞死",
+      "thumb": "thumbs/steins_gate/ep_014.jpg",
+      "url": "https://xgct-video.bzcdn.net/79d6359b-6f32-44e6-a64e-9b376bb5b160/playlist.m3u8"
+    },
+    {
+      "ep": 15,
+      "title": "亡環上的壞死",
+      "thumb": "thumbs/steins_gate/ep_015.jpg",
+      "url": "https://xgct-video.bzcdn.net/9b576c81-aa98-4959-a256-115361479a17/playlist.m3u8"
+    },
+    {
+      "ep": 16,
+      "title": "不可逆的壞死",
+      "thumb": "thumbs/steins_gate/ep_016.jpg",
+      "url": "https://xgct-video.bzcdn.net/c0998ade-1754-4828-a93d-89d4b2d7de92/playlist.m3u8"
+    },
+    {
+      "ep": 17,
+      "title": "虛像歪曲的複雜",
+      "thumb": "thumbs/steins_gate/ep_017.jpg",
+      "url": "https://xgct-video.bzcdn.net/7f0729db-450a-475c-8761-d4d78cca71cd/playlist.m3u8"
+    },
+    {
+      "ep": 18,
+      "title": "自己相似的雌雄同體",
+      "thumb": "thumbs/steins_gate/ep_018.jpg",
+      "url": "https://xgct-video.bzcdn.net/f70de758-863a-422a-9081-5b2661242fc4/playlist.m3u8"
+    },
+    {
+      "ep": 19,
+      "title": "無限連鎖的細胞凋亡",
+      "thumb": "thumbs/steins_gate/ep_019.jpg",
+      "url": "https://xgct-video.bzcdn.net/28b2a0d7-e576-4c3d-90ed-41d20dea440b/playlist.m3u8"
+    },
+    {
+      "ep": 20,
+      "title": "怨嗟斷絕的凋亡",
+      "thumb": "thumbs/steins_gate/ep_020.jpg",
+      "url": "https://xgct-video.bzcdn.net/c0efff1d-41f1-47f7-b774-06d89d8120aa/playlist.m3u8"
+    },
+    {
+      "ep": 21,
+      "title": "存在瞭解的溶解",
+      "thumb": "thumbs/steins_gate/ep_021.jpg",
+      "url": "https://xgct-video.bzcdn.net/66c63a7d-b6dc-463e-87d4-0d02cd63b76e/playlist.m3u8"
+    },
+    {
+      "ep": 22,
+      "title": "存在瞭解的溶解",
+      "thumb": "thumbs/steins_gate/ep_022.jpg",
+      "url": "https://xgct-video.bzcdn.net/66a49241-cae6-4fde-add6-1a2461db92c6/playlist.m3u8"
+    },
+    {
+      "ep": 23,
+      "title": "境界面上的命運石之門",
+      "thumb": "thumbs/steins_gate/ep_023.jpg",
+      "url": "https://xgct-video.bzcdn.net/65357fb9-5288-41e3-96fd-8a1f40477c61/playlist.m3u8"
+    },
+    {
+      "ep": 24,
+      "title": "終結與開始的序章",
+      "thumb": "thumbs/steins_gate/ep_024.jpg",
+      "url": "https://xgct-video.bzcdn.net/c2a589b9-9bcc-4931-96d1-ddf4633cffca/playlist.m3u8"
+    },
+    {
+      "ep": 25,
+      "title": "SPECIAL 橫行跋扈的離家漫遊廦",
+      "thumb": "thumbs/steins_gate/ep_025.jpg",
+      "url": "https://xgct-video.bzcdn.net/d98f7dac-bd3d-4165-b850-e1eb3a592556/playlist.m3u8"
+    },
+    {
+      "ep": 26,
+      "title": "S2-01 零化域的缺失之環",
+      "thumb": "thumbs/steins_gate/ep_026.jpg",
+      "url": "https://xgct-video.bzcdn.net/af01c2b7-237b-45a5-a379-b78b3fb1e4f2/playlist.m3u8"
+    },
+    {
+      "ep": 27,
+      "title": "S2-02 閉時曲線的碑文",
+      "thumb": "thumbs/steins_gate/ep_027.jpg",
+      "url": "https://xgct-video.bzcdn.net/c479cd42-7efa-4278-aab3-2d4743615f89/playlist.m3u8"
+    },
+    {
+      "ep": 28,
+      "title": "S2-03 雙體福音的契約",
+      "thumb": "thumbs/steins_gate/ep_028.jpg",
+      "url": "https://xgct-video.bzcdn.net/71c6ef9e-2757-46e1-b8f2-c8c30e73c573/playlist.m3u8"
+    },
+    {
+      "ep": 29,
+      "title": "S2-04 亡失流轉的孤獨",
+      "thumb": "thumbs/steins_gate/ep_029.jpg",
+      "url": "https://xgct-video.bzcdn.net/4410a93f-7842-46e3-95d6-bac3b2d4d4fc/playlist.m3u8"
+    },
+    {
+      "ep": 30,
+      "title": "S2-05 非點收差的孤獨",
+      "thumb": "thumbs/steins_gate/ep_030.jpg",
+      "url": "https://xgct-video.bzcdn.net/c532c874-782f-45ff-9baa-c5eb2ce386c9/playlist.m3u8"
+    },
+    {
+      "ep": 31,
+      "title": "S2-06 軌道秩序的消逝",
+      "thumb": "thumbs/steins_gate/ep_031.jpg",
+      "url": "https://xgct-video.bzcdn.net/12f75847-cc90-437f-a1c2-2d75853afda5/playlist.m3u8"
+    },
+    {
+      "ep": 32,
+      "title": "S2-07 振電躍遷的暗蝕",
+      "thumb": "thumbs/steins_gate/ep_032.jpg",
+      "url": "https://xgct-video.bzcdn.net/6f92765c-a4d2-45ad-bcc1-8934f5e45362/playlist.m3u8"
+    },
+    {
+      "ep": 33,
+      "title": "S2-08 二律背反的雙重",
+      "thumb": "thumbs/steins_gate/ep_033.jpg",
+      "url": "https://xgct-video.bzcdn.net/2c020a23-5fa5-4e1a-9b5a-bc60290029a5/playlist.m3u8"
+    },
+    {
+      "ep": 34,
+      "title": "S2-09 永劫迴歸的潘多拉",
+      "thumb": "thumbs/steins_gate/ep_034.jpg",
+      "url": "https://xgct-video.bzcdn.net/2830ce16-1214-49fe-87d7-563a0b3b9f2b/playlist.m3u8"
+    },
+    {
+      "ep": 35,
+      "title": "S2-10 存在證明的潘多拉",
+      "thumb": "thumbs/steins_gate/ep_035.jpg",
+      "url": "https://xgct-video.bzcdn.net/77eb56ac-3cdb-4b1c-b97a-adfebd677c9a/playlist.m3u8"
+    },
+    {
+      "ep": 36,
+      "title": "S2-11 存在忘卻的潘多拉",
+      "thumb": "thumbs/steins_gate/ep_036.jpg",
+      "url": "https://xgct-video.bzcdn.net/10f9b4ae-fe8a-4197-8165-68252b3dd61b/playlist.m3u8"
+    },
+    {
+      "ep": 37,
+      "title": "S2-12 相互再歸的鵝媽媽",
+      "thumb": "thumbs/steins_gate/ep_037.jpg",
+      "url": "https://xgct-video.bzcdn.net/41f41dbc-04a1-4314-93bd-fd3f068bdf11/playlist.m3u8"
+    },
+    {
+      "ep": 38,
+      "title": "S2-13 衍射敘唱的鵝媽媽",
+      "thumb": "thumbs/steins_gate/ep_038.jpg",
+      "url": "https://xgct-video.bzcdn.net/a129323f-00d8-434d-8536-6311c54c9c39/playlist.m3u8"
+    },
+    {
+      "ep": 39,
+      "title": "S2-14 彈性界限的認知",
+      "thumb": "thumbs/steins_gate/ep_039.jpg",
+      "url": "https://xgct-video.bzcdn.net/f62c94d6-2f38-4e67-a080-331a33d3314a/playlist.m3u8"
+    },
+    {
+      "ep": 40,
+      "title": "S2-15 漸近線的認知",
+      "thumb": "thumbs/steins_gate/ep_040.jpg",
+      "url": "https://xgct-video.bzcdn.net/1d0edad6-c5be-4d93-8915-019ceecaa0e2/playlist.m3u8"
+    },
+    {
+      "ep": 41,
+      "title": "S2-16 無限遠點的牽牛星",
+      "thumb": "thumbs/steins_gate/ep_041.jpg",
+      "url": "https://xgct-video.bzcdn.net/1369d262-c0b7-4a79-a801-7197cb59b327/playlist.m3u8"
+    },
+    {
+      "ep": 42,
+      "title": "S2-17 雙曲平面的牽牛星",
+      "thumb": "thumbs/steins_gate/ep_042.jpg",
+      "url": "https://xgct-video.bzcdn.net/819fe5f3-7a8d-437a-82f4-36e7b8b35fce/playlist.m3u8"
+    },
+    {
+      "ep": 43,
+      "title": "S2-18 並進對稱的牽牛星",
+      "thumb": "thumbs/steins_gate/ep_043.jpg",
+      "url": "https://xgct-video.bzcdn.net/2dd43d20-b4d3-4d5e-91e7-56013470021d/playlist.m3u8"
+    },
+    {
+      "ep": 44,
+      "title": "S2-19 循環座標的牽牛星",
+      "thumb": "thumbs/steins_gate/ep_044.jpg",
+      "url": "https://xgct-video.bzcdn.net/76f4a613-310c-4e2b-bb2f-2fe6b49bcd32/playlist.m3u8"
+    },
+    {
+      "ep": 45,
+      "title": "S2-20 盟誓的文藝復興",
+      "thumb": "thumbs/steins_gate/ep_045.jpg",
+      "url": "https://xgct-video.bzcdn.net/b27a92b3-5060-44dc-b958-9272cfcb2b28/playlist.m3u8"
+    },
+    {
+      "ep": 46,
+      "title": "S2-21 成像的文藝復興",
+      "thumb": "thumbs/steins_gate/ep_046.jpg",
+      "url": "https://xgct-video.bzcdn.net/53d6c93e-4906-4a2d-a893-3429c643a8a6/playlist.m3u8"
+    },
+    {
+      "ep": 47,
+      "title": "S2-22 投企的文藝復興",
+      "thumb": "thumbs/steins_gate/ep_047.jpg",
+      "url": "https://xgct-video.bzcdn.net/03a77b4d-6d43-42b0-a744-d149c2a7401c/playlist.m3u8"
+    },
+    {
+      "ep": 48,
+      "title": "S2-23 無限遠點的弧光燈 交差座標的星塵",
+      "thumb": "thumbs/steins_gate/ep_048.jpg",
+      "url": "https://xgct-video.bzcdn.net/9b6d80fe-af54-433b-8e1f-115bcc384f0e/playlist.m3u8"
+    },
+    {
+      "ep": 49,
+      "title": "S2-SP 結晶多形的情人節",
+      "thumb": "thumbs/steins_gate/ep_049.jpg",
+      "url": "https://xgct-video.bzcdn.net/70219fd4-15d9-4dca-810b-afed7a66cdc6/playlist.m3u8"
+    },
+    {
+      "ep": 50,
+      "title": "劇場版 負荷領域的既視感",
+      "thumb": "thumbs/steins_gate/ep_050.jpg",
+      "url": "https://xgct-video.bzcdn.net/c991175f-4765-4298-967a-cab7d8fda80a/playlist.m3u8"
+    }
+  ]
+}
