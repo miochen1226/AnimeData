@@ -8,13 +8,21 @@
       "ep": 1,
       "title": "開始與終結的序章",
       "thumb": "thumbs/steins_gate/ep_001.jpg",
-      "url": "https://xgct-video.bzcdn.net/6efde936-bc2e-418b-824a-6327b4789bf4/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/6efde936-bc2e-418b-824a-6327b4789bf4/playlist.m3u8",
+      "op": {
+        "start": 635.5,
+        "end": 724.0
+      }
     },
     {
       "ep": 2,
       "title": "時空跳躍的偏執狂",
       "thumb": "thumbs/steins_gate/ep_002.jpg",
-      "url": "https://xgct-video.bzcdn.net/69149bd5-cf84-4af4-bde7-b01932e8d540/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/69149bd5-cf84-4af4-bde7-b01932e8d540/playlist.m3u8",
+      "op": {
+        "start": 75.5,
+        "end": 164.0
+      }
     },
     {
       "ep": 3,
