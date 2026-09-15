@@ -1,0 +1,86 @@
+{
+  "id": "lycoris_recoil_riyu",
+  "title": "彼岸花的后坐力（莉可丽丝、Lycoris Recoil）【日語】",
+  "titleEn": "Lycoris Recoil",
+  "cover": "thumbs/lycoris_recoil_riyu/cover.jpg",
+  "episodes": [
+    {
+      "ep": 1,
+      "title": "慢慢來",
+      "thumb": "thumbs/lycoris_recoil_riyu/ep_001.jpg",
+      "url": "https://xgct-video.bzcdn.net/a2219fcb-04eb-4a9e-81e0-601c8d80a9df/playlist.m3u8"
+    },
+    {
+      "ep": 2,
+      "title": "多多益善",
+      "thumb": "thumbs/lycoris_recoil_riyu/ep_002.jpg",
+      "url": "https://xgct-video.bzcdn.net/b17c5089-5714-4d0b-af60-13a4b8886afa/playlist.m3u8"
+    },
+    {
+      "ep": 3,
+      "title": "欲速則不達",
+      "thumb": "thumbs/lycoris_recoil_riyu/ep_003.jpg",
+      "url": "https://xgct-video.bzcdn.net/911af4a9-eb02-4334-b368-e3f915ac3698/playlist.m3u8"
+    },
+    {
+      "ep": 4,
+      "title": "無所求則無所獲",
+      "thumb": "thumbs/lycoris_recoil_riyu/ep_004.jpg",
+      "url": "https://xgct-video.bzcdn.net/f8dfd58b-0109-432e-b8c6-ead490303941/playlist.m3u8"
+    },
+    {
+      "ep": 5,
+      "title": "目前爲止，一切順利",
+      "thumb": "thumbs/lycoris_recoil_riyu/ep_005.jpg",
+      "url": "https://xgct-video.bzcdn.net/ea8352ef-1a7f-41fb-8254-e06202ca45ef/playlist.m3u8"
+    },
+    {
+      "ep": 6,
+      "title": "相斥相吸",
+      "thumb": "thumbs/lycoris_recoil_riyu/ep_006.jpg",
+      "url": "https://xgct-video.bzcdn.net/e43f70a9-0ddf-4c24-8338-8d352bd27c8c/playlist.m3u8"
+    },
+    {
+      "ep": 7,
+      "title": "時間會證明一切",
+      "thumb": "thumbs/lycoris_recoil_riyu/ep_007.jpg",
+      "url": "https://xgct-video.bzcdn.net/e93471a3-bd62-408a-9553-e9f7fc9c1faf/playlist.m3u8"
+    },
+    {
+      "ep": 8,
+      "title": "又一日，又一文",
+      "thumb": "thumbs/lycoris_recoil_riyu/ep_008.jpg",
+      "url": "https://xgct-video.bzcdn.net/1f7dc65d-b1f3-41f5-8df8-4364681574a8/playlist.m3u8"
+    },
+    {
+      "ep": 9,
+      "title": "覆水難收",
+      "thumb": "thumbs/lycoris_recoil_riyu/ep_009.jpg",
+      "url": "https://xgct-video.bzcdn.net/986b47c9-c3a3-4ea1-bbf5-7f857f2a704c/playlist.m3u8"
+    },
+    {
+      "ep": 10,
+      "title": "以惡報惡",
+      "thumb": "thumbs/lycoris_recoil_riyu/ep_010.jpg",
+      "url": "https://xgct-video.bzcdn.net/7aaec170-be0b-417e-8d62-bde804163cb7/playlist.m3u8"
+    },
+    {
+      "ep": 11,
+      "title": "棋逢對手",
+      "thumb": "thumbs/lycoris_recoil_riyu/ep_011.jpg",
+      "url": "https://xgct-video.bzcdn.net/a603a94a-0c33-4c64-8270-c15c3dfab8bd/playlist.m3u8"
+    },
+    {
+      "ep": 12,
+      "title": "先天與後天",
+      "thumb": "thumbs/lycoris_recoil_riyu/ep_012.jpg",
+      "url": "https://xgct-video.bzcdn.net/bec95a09-894a-48ee-8d1c-a41b4927ed75/playlist.m3u8"
+    },
+    {
+      "ep": 13,
+      "title": "Recoil of Lycoris",
+      "thumb": "thumbs/lycoris_recoil_riyu/ep_013.jpg",
+      "url": "https://xgct-video.bzcdn.net/6fd3cda4-bca3-4523-b00d-68df220141b2/playlist.m3u8"
+    }
+  ]
+}

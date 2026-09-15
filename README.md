@@ -80,4 +80,5 @@ thumbs/<id>/ep_001.jpg    # 各集縮圖
 | nigumiaomiao_riyu | 尼古喵喵【日語】 | 10 |
 | zuoheouxiangshichuanqi_riyu | 佐賀偶像是傳奇 第1-2季【日語】 | 24 |
 | qihun_guoyu | 棋魂（棋靈王、光之棋）【國語】 | 76 |
+| lycoris_recoil_riyu | 彼岸花的后坐力（莉可丽丝、Lycoris Recoil）【日語】 | 13 |
 *（内容由AI生成，仅供参考）*
