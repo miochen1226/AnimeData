@@ -41,6 +41,14 @@
       "cover": "thumbs/lycoris_recoil_riyu/cover.jpg",
       "source": "shows/lycoris_recoil_riyu.json",
       "episodeCount": 13
+    },
+    {
+      "id": "gundam_hathaway_kirke_riyu",
+      "title": "機動戰士高達：閃光的哈薩維 喀耳刻的魔女【日語】",
+      "titleEn": "Mobile Suit Gundam: Hathaway's Flash - Kirke's Witch",
+      "cover": "thumbs/gundam_hathaway_kirke_riyu/cover.jpg",
+      "source": "shows/gundam_hathaway_kirke_riyu.json",
+      "episodeCount": 1
     }
   ]
 }

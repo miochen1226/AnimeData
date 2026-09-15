@@ -1,0 +1,14 @@
+{
+  "id": "gundam_hathaway_kirke_riyu",
+  "title": "機動戰士高達：閃光的哈薩維 喀耳刻的魔女【日語】",
+  "titleEn": "Mobile Suit Gundam: Hathaway's Flash - Kirke's Witch",
+  "cover": "thumbs/gundam_hathaway_kirke_riyu/cover.jpg",
+  "episodes": [
+    {
+      "ep": 1,
+      "title": "劇場版",
+      "thumb": "thumbs/gundam_hathaway_kirke_riyu/ep_001.jpg",
+      "url": "https://xgct-video.bzcdn.net/a98142e7-7bc9-4c44-b6db-8665f89a8677/playlist.m3u8"
+    }
+  ]
+}
