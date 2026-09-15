@@ -28,133 +28,221 @@
       "ep": 3,
       "title": "平行時空的偏執狂",
       "thumb": "thumbs/steins_gate/ep_003.jpg",
-      "url": "https://xgct-video.bzcdn.net/8d9aa3a8-6fb3-4621-aaf4-c498a9d151fb/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/8d9aa3a8-6fb3-4621-aaf4-c498a9d151fb/playlist.m3u8",
+      "op": {
+        "start": 98.5,
+        "end": 187.0
+      }
     },
     {
       "ep": 4,
       "title": "空理彷徨的會面",
       "thumb": "thumbs/steins_gate/ep_004.jpg",
-      "url": "https://xgct-video.bzcdn.net/8671f9eb-b146-4b74-9f4a-d9cf331c74e7/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/8671f9eb-b146-4b74-9f4a-d9cf331c74e7/playlist.m3u8",
+      "op": {
+        "start": 95.5,
+        "end": 184.0
+      }
     },
     {
       "ep": 5,
       "title": "電荷衝突的會面",
       "thumb": "thumbs/steins_gate/ep_005.jpg",
-      "url": "https://xgct-video.bzcdn.net/5504381d-1968-4855-af2d-cb2b408be94c/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/5504381d-1968-4855-af2d-cb2b408be94c/playlist.m3u8",
+      "op": {
+        "start": 118.5,
+        "end": 207.0
+      }
     },
     {
       "ep": 6,
       "title": "蝶翼的分歧",
       "thumb": "thumbs/steins_gate/ep_006.jpg",
-      "url": "https://xgct-video.bzcdn.net/c9278fb5-5b20-444c-be73-4285e006ef40/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/c9278fb5-5b20-444c-be73-4285e006ef40/playlist.m3u8",
+      "op": {
+        "start": 66.5,
+        "end": 155.0
+      }
     },
     {
       "ep": 7,
       "title": "斷層的分歧",
       "thumb": "thumbs/steins_gate/ep_007.jpg",
-      "url": "https://xgct-video.bzcdn.net/ae1627f4-6ff7-4f5a-a45a-7418dc56f4cc/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/ae1627f4-6ff7-4f5a-a45a-7418dc56f4cc/playlist.m3u8",
+      "op": {
+        "start": 117.5,
+        "end": 206.0
+      }
     },
     {
       "ep": 8,
       "title": "夢幻的自平衡",
       "thumb": "thumbs/steins_gate/ep_008.jpg",
-      "url": "https://xgct-video.bzcdn.net/7801a935-0189-4356-8a8f-2352ff0dd057/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/7801a935-0189-4356-8a8f-2352ff0dd057/playlist.m3u8",
+      "op": {
+        "start": 107.5,
+        "end": 196.0
+      }
     },
     {
       "ep": 9,
       "title": "幻相的自平衡",
       "thumb": "thumbs/steins_gate/ep_009.jpg",
-      "url": "https://xgct-video.bzcdn.net/3f8bfe69-68db-4564-af92-4d97bdc1a240/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/3f8bfe69-68db-4564-af92-4d97bdc1a240/playlist.m3u8",
+      "op": {
+        "start": 60.5,
+        "end": 149.0
+      }
     },
     {
       "ep": 10,
       "title": "相生的自平衡",
       "thumb": "thumbs/steins_gate/ep_010.jpg",
-      "url": "https://xgct-video.bzcdn.net/ad16bf7b-6542-4d27-be11-c8ffa58003b4/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/ad16bf7b-6542-4d27-be11-c8ffa58003b4/playlist.m3u8",
+      "op": {
+        "start": 53.5,
+        "end": 142.0
+      }
     },
     {
       "ep": 11,
       "title": "時空境界的信條",
       "thumb": "thumbs/steins_gate/ep_011.jpg",
-      "url": "https://xgct-video.bzcdn.net/129853a6-af8d-49c8-91fc-fcef096cd8f2/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/129853a6-af8d-49c8-91fc-fcef096cd8f2/playlist.m3u8",
+      "op": {
+        "start": 83.5,
+        "end": 172.0
+      }
     },
     {
       "ep": 12,
       "title": "靜止界限的信條",
       "thumb": "thumbs/steins_gate/ep_012.jpg",
-      "url": "https://xgct-video.bzcdn.net/d6cbd8f1-3466-43ae-bc33-3992d6408178/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/d6cbd8f1-3466-43ae-bc33-3992d6408178/playlist.m3u8",
+      "op": {
+        "start": 108.5,
+        "end": 197.0
+      }
     },
     {
       "ep": 13,
       "title": "形而上的壞死",
       "thumb": "thumbs/steins_gate/ep_013.jpg",
-      "url": "https://xgct-video.bzcdn.net/b996574f-5aea-422a-9498-77a2cd2a7c3d/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/b996574f-5aea-422a-9498-77a2cd2a7c3d/playlist.m3u8",
+      "op": {
+        "start": 178.5,
+        "end": 267.0
+      }
     },
     {
       "ep": 14,
       "title": "形而下的壞死",
       "thumb": "thumbs/steins_gate/ep_014.jpg",
-      "url": "https://xgct-video.bzcdn.net/79d6359b-6f32-44e6-a64e-9b376bb5b160/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/79d6359b-6f32-44e6-a64e-9b376bb5b160/playlist.m3u8",
+      "op": {
+        "start": 140.5,
+        "end": 229.0
+      }
     },
     {
       "ep": 15,
       "title": "亡環上的壞死",
       "thumb": "thumbs/steins_gate/ep_015.jpg",
-      "url": "https://xgct-video.bzcdn.net/9b576c81-aa98-4959-a256-115361479a17/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/9b576c81-aa98-4959-a256-115361479a17/playlist.m3u8",
+      "op": {
+        "start": 17.5,
+        "end": 106.0
+      }
     },
     {
       "ep": 16,
       "title": "不可逆的壞死",
       "thumb": "thumbs/steins_gate/ep_016.jpg",
-      "url": "https://xgct-video.bzcdn.net/c0998ade-1754-4828-a93d-89d4b2d7de92/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/c0998ade-1754-4828-a93d-89d4b2d7de92/playlist.m3u8",
+      "op": {
+        "start": 85.5,
+        "end": 174.0
+      }
     },
     {
       "ep": 17,
       "title": "虛像歪曲的複雜",
       "thumb": "thumbs/steins_gate/ep_017.jpg",
-      "url": "https://xgct-video.bzcdn.net/7f0729db-450a-475c-8761-d4d78cca71cd/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/7f0729db-450a-475c-8761-d4d78cca71cd/playlist.m3u8",
+      "op": {
+        "start": 48.5,
+        "end": 137.0
+      }
     },
     {
       "ep": 18,
       "title": "自己相似的雌雄同體",
       "thumb": "thumbs/steins_gate/ep_018.jpg",
-      "url": "https://xgct-video.bzcdn.net/f70de758-863a-422a-9081-5b2661242fc4/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/f70de758-863a-422a-9081-5b2661242fc4/playlist.m3u8",
+      "op": {
+        "start": 34.5,
+        "end": 123.0
+      }
     },
     {
       "ep": 19,
       "title": "無限連鎖的細胞凋亡",
       "thumb": "thumbs/steins_gate/ep_019.jpg",
-      "url": "https://xgct-video.bzcdn.net/28b2a0d7-e576-4c3d-90ed-41d20dea440b/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/28b2a0d7-e576-4c3d-90ed-41d20dea440b/playlist.m3u8",
+      "op": {
+        "start": 33.5,
+        "end": 122.0
+      }
     },
     {
       "ep": 20,
       "title": "怨嗟斷絕的凋亡",
       "thumb": "thumbs/steins_gate/ep_020.jpg",
-      "url": "https://xgct-video.bzcdn.net/c0efff1d-41f1-47f7-b774-06d89d8120aa/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/c0efff1d-41f1-47f7-b774-06d89d8120aa/playlist.m3u8",
+      "op": {
+        "start": 52.5,
+        "end": 141.0
+      }
     },
     {
       "ep": 21,
       "title": "存在瞭解的溶解",
       "thumb": "thumbs/steins_gate/ep_021.jpg",
-      "url": "https://xgct-video.bzcdn.net/66c63a7d-b6dc-463e-87d4-0d02cd63b76e/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/66c63a7d-b6dc-463e-87d4-0d02cd63b76e/playlist.m3u8",
+      "op": {
+        "start": 19.5,
+        "end": 108.0
+      }
     },
     {
       "ep": 22,
       "title": "存在瞭解的溶解",
       "thumb": "thumbs/steins_gate/ep_022.jpg",
-      "url": "https://xgct-video.bzcdn.net/66a49241-cae6-4fde-add6-1a2461db92c6/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/66a49241-cae6-4fde-add6-1a2461db92c6/playlist.m3u8",
+      "op": {
+        "start": 13.5,
+        "end": 102.0
+      }
     },
     {
       "ep": 23,
       "title": "境界面上的命運石之門",
       "thumb": "thumbs/steins_gate/ep_023.jpg",
-      "url": "https://xgct-video.bzcdn.net/65357fb9-5288-41e3-96fd-8a1f40477c61/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/65357fb9-5288-41e3-96fd-8a1f40477c61/playlist.m3u8",
+      "op": {
+        "start": 108.5,
+        "end": 197.0
+      }
     },
     {
       "ep": 24,
       "title": "終結與開始的序章",
       "thumb": "thumbs/steins_gate/ep_024.jpg",
-      "url": "https://xgct-video.bzcdn.net/c2a589b9-9bcc-4931-96d1-ddf4633cffca/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/c2a589b9-9bcc-4931-96d1-ddf4633cffca/playlist.m3u8",
+      "op": {
+        "start": 103.5,
+        "end": 192.0
+      }
     },
     {
       "ep": 25,
