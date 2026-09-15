@@ -49,6 +49,14 @@
       "cover": "thumbs/gundam_hathaway_kirke_riyu/cover.jpg",
       "source": "shows/gundam_hathaway_kirke_riyu.json",
       "episodeCount": 1
+    },
+    {
+      "id": "jojo_golden_wind_riyu",
+      "title": "JOJO的奇妙冒險 黃金之風（JOJO's Bizarre Adventure Golden Wind）（4K）【日語】",
+      "titleEn": "JoJo's Bizarre Adventure: Golden Wind",
+      "cover": "thumbs/jojo_golden_wind_riyu/cover.jpg",
+      "source": "shows/jojo_golden_wind_riyu.json",
+      "episodeCount": 39
     }
   ]
 }

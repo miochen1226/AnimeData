@@ -2,12 +2,14 @@
 AIGC:
     Label: "1"
     ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 5390991e442c1cc0a64dcd85c8a2ecc3_cfc7da00b0b011f18f50525400aeaaa3
-    ReservedCode1: CU9zke8LsgqyGBrfVX8LE8v3DJqpr4NTKTqQeqN92HTrJa1B0tJV+V4k9o1A8oyCDp1fdf0Nkq6p5oCRAzCEZwrnCa7TzMgdN/JwElRqZfa6pwI1iyBT0kufERnurBFiBdxEGAnk0FaEmKgICc187yIjd+rSZ/BjYhSyAswVNxt/tb2Z6J5GtD717J0=
+    ProduceID: 5390991e442c1cc0a64dcd85c8a2ecc3_b533a0e8b0e411f18874525400287e28
+    ReservedCode1: 18YuPmR0P1vFtoZ6SliJclHIMd5wNQgQVOBRPkt72QNm/vk2qMekz7xuHh69xOe/OqnBnnwVIXX6G+yRV19oG+yvEu5xKTLqd6DG10oOhVY7K4ptvkcE1Vie+s9QBon8yjHB/4GSKqilJdOg9x4KU6uP4AByJirPevle4ZFc0ZcYYHHFo3uzYKM3a4E=
     ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 5390991e442c1cc0a64dcd85c8a2ecc3_cfc7da00b0b011f18f50525400aeaaa3
-    ReservedCode2: CU9zke8LsgqyGBrfVX8LE8v3DJqpr4NTKTqQeqN92HTrJa1B0tJV+V4k9o1A8oyCDp1fdf0Nkq6p5oCRAzCEZwrnCa7TzMgdN/JwElRqZfa6pwI1iyBT0kufERnurBFiBdxEGAnk0FaEmKgICc187yIjd+rSZ/BjYhSyAswVNxt/tb2Z6J5GtD717J0=
+    PropagateID: 5390991e442c1cc0a64dcd85c8a2ecc3_b533a0e8b0e411f18874525400287e28
+    ReservedCode2: 18YuPmR0P1vFtoZ6SliJclHIMd5wNQgQVOBRPkt72QNm/vk2qMekz7xuHh69xOe/OqnBnnwVIXX6G+yRV19oG+yvEu5xKTLqd6DG10oOhVY7K4ptvkcE1Vie+s9QBon8yjHB/4GSKqilJdOg9x4KU6uP4AByJirPevle4ZFc0ZcYYHHFo3uzYKM3a4E=
 ---
+
+
 
 
 
@@ -84,5 +86,7 @@ thumbs/<id>/ep_001.jpg    # 各集縮圖
 | qihun_guoyu | 棋魂（棋靈王、光之棋）【國語】 | 76 |
 | lycoris_recoil_riyu | 彼岸花的后坐力（莉可丽丝、Lycoris Recoil）【日語】 | 13 |
 | gundam_hathaway_kirke_riyu | 機動戰士高達：閃光的哈薩維 喀耳刻的魔女【日語】 | 1 |
+| jojo_golden_wind_riyu | JOJO的奇妙冒險 黃金之風（JOJO's Bizarre Adventure Golden Wind）（4K）【日語】 | 39 |
+*（内容由AI生成，仅供参考）*
 *（内容由AI生成，仅供参考）*
 *（内容由AI生成，仅供参考）*
