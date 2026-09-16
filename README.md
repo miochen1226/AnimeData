@@ -87,6 +87,7 @@ thumbs/<id>/ep_001.jpg    # 各集縮圖
 | lycoris_recoil_riyu | 彼岸花的后坐力（莉可丽丝、Lycoris Recoil）【日語】 | 13 |
 | gundam_hathaway_kirke_riyu | 機動戰士高達：閃光的哈薩維 喀耳刻的魔女【日語】 | 1 |
 | jojo_golden_wind_riyu | JOJO的奇妙冒險 黃金之風（JOJO's Bizarre Adventure Golden Wind）（4K）【日語】 | 39 |
+| kakegurui_riyu | 狂賭之淵（狂徒之淵）第1-2季【日語】 | 24 |
 *（内容由AI生成，仅供参考）*
 *（内容由AI生成，仅供参考）*
 *（内容由AI生成，仅供参考）*

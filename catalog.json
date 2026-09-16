@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-15",
+  "updated": "2026-09-16",
   "shows": [
     {
       "id": "steins_gate",
@@ -57,6 +57,14 @@
       "cover": "thumbs/jojo_golden_wind_riyu/cover.jpg",
       "source": "shows/jojo_golden_wind_riyu.json",
       "episodeCount": 39
+    },
+    {
+      "id": "kakegurui_riyu",
+      "title": "狂賭之淵（狂徒之淵）第1-2季【日語】",
+      "titleEn": "Kakegurui",
+      "cover": "thumbs/kakegurui_riyu/cover.jpg",
+      "source": "shows/kakegurui_riyu.json",
+      "episodeCount": 24
     }
   ]
 }
