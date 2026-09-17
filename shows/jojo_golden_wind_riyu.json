@@ -8,235 +8,391 @@
       "ep": 1,
       "title": "黃金體驗",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_001.jpg",
-      "url": "https://xgct-video.bzcdn.net/12e54685-b1a8-4147-9ddb-1ee59ac72d92/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/12e54685-b1a8-4147-9ddb-1ee59ac72d92/playlist.m3u8",
+      "op": {
+        "start": 157.7,
+        "end": 247.7
+      }
     },
     {
       "ep": 2,
       "title": "布加拉提到來",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_002.jpg",
-      "url": "https://xgct-video.bzcdn.net/843c69f6-1a8a-4cbc-83e2-069d46309663/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/843c69f6-1a8a-4cbc-83e2-069d46309663/playlist.m3u8",
+      "op": {
+        "start": 16.4,
+        "end": 106.4
+      }
     },
     {
       "ep": 3,
       "title": "前往會見監獄中的黑幫",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_003.jpg",
-      "url": "https://xgct-video.bzcdn.net/4bb56e9a-0236-4f26-98d2-f6b095b8a22c/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/4bb56e9a-0236-4f26-98d2-f6b095b8a22c/playlist.m3u8",
+      "op": {
+        "start": 110.6,
+        "end": 200.6
+      }
     },
     {
       "ep": 4,
       "title": "黑幫入門",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_004.jpg",
-      "url": "https://xgct-video.bzcdn.net/59d4cc15-4790-40da-86b9-19b6fd5bff64/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/59d4cc15-4790-40da-86b9-19b6fd5bff64/playlist.m3u8",
+      "op": {
+        "start": 93.2,
+        "end": 183.2
+      }
     },
     {
       "ep": 5,
       "title": "目標是波爾波的遺產！",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_005.jpg",
-      "url": "https://xgct-video.bzcdn.net/c58d08bf-838f-4698-b11e-576217908a1b/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/c58d08bf-838f-4698-b11e-576217908a1b/playlist.m3u8",
+      "op": {
+        "start": 102.4,
+        "end": 192.4
+      }
     },
     {
       "ep": 6,
       "title": "憂鬱藍調的反擊",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_006.jpg",
-      "url": "https://xgct-video.bzcdn.net/0d338955-22e3-4591-8506-d6c9a87d371e/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/0d338955-22e3-4591-8506-d6c9a87d371e/playlist.m3u8",
+      "op": {
+        "start": 260.1,
+        "end": 350.1
+      }
     },
     {
       "ep": 7,
       "title": "性感手槍登場 其一",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_007.jpg",
-      "url": "https://xgct-video.bzcdn.net/9f2d142f-2779-4544-9910-ab24b3742a3f/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/9f2d142f-2779-4544-9910-ab24b3742a3f/playlist.m3u8",
+      "op": {
+        "start": 158.7,
+        "end": 248.7
+      }
     },
     {
       "ep": 8,
       "title": "性感手槍登場 其二",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_008.jpg",
-      "url": "https://xgct-video.bzcdn.net/5e5b23cd-7849-44c0-b921-03dcc2dfedc7/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/5e5b23cd-7849-44c0-b921-03dcc2dfedc7/playlist.m3u8",
+      "op": {
+        "start": 48.1,
+        "end": 138.1
+      }
     },
     {
       "ep": 9,
       "title": "老闆下達的第一道指令",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_009.jpg",
-      "url": "https://xgct-video.bzcdn.net/4960b0e1-fa56-43ba-840a-088b8e8aad6b/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/4960b0e1-fa56-43ba-840a-088b8e8aad6b/playlist.m3u8",
+      "op": {
+        "start": 163.8,
+        "end": 253.8
+      }
     },
     {
       "ep": 10,
       "title": "暗殺（Hitman）小組",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_010.jpg",
-      "url": "https://xgct-video.bzcdn.net/59391fc3-62e6-4a6a-87da-2cd1031840ba/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/59391fc3-62e6-4a6a-87da-2cd1031840ba/playlist.m3u8",
+      "op": {
+        "start": 156.7,
+        "end": 246.7
+      }
     },
     {
       "ep": 11,
       "title": "納蘭迦的航空史密斯",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_011.jpg",
-      "url": "https://xgct-video.bzcdn.net/2934b17b-e190-479c-86b5-2b545a20f7c1/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/2934b17b-e190-479c-86b5-2b545a20f7c1/playlist.m3u8",
+      "op": {
+        "start": 182.3,
+        "end": 272.3
+      }
     },
     {
       "ep": 12,
       "title": "老闆下達的第二道指令",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_012.jpg",
-      "url": "https://xgct-video.bzcdn.net/8ea89147-1b86-48b9-aade-a2bd3c98a43a/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/8ea89147-1b86-48b9-aade-a2bd3c98a43a/playlist.m3u8",
+      "op": {
+        "start": 35.8,
+        "end": 125.8
+      }
     },
     {
       "ep": 13,
       "title": "鏡中人與紫煙",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_013.jpg",
-      "url": "https://xgct-video.bzcdn.net/b1022b4e-3e1e-43da-9a6f-184b57ceba30/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/b1022b4e-3e1e-43da-9a6f-184b57ceba30/playlist.m3u8",
+      "op": {
+        "start": 118.8,
+        "end": 208.8
+      }
     },
     {
       "ep": 14,
       "title": "前往佛羅倫薩的超特快列車",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_014.jpg",
-      "url": "https://xgct-video.bzcdn.net/3c52882d-a240-4055-a0f0-88b08d0c0473/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/3c52882d-a240-4055-a0f0-88b08d0c0473/playlist.m3u8",
+      "op": {
+        "start": 148.5,
+        "end": 238.5
+      }
     },
     {
       "ep": 15,
       "title": "「壯烈成仁」 其一",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_015.jpg",
-      "url": "https://xgct-video.bzcdn.net/11f09926-b7c2-483d-911a-fce5cfdffe3e/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/11f09926-b7c2-483d-911a-fce5cfdffe3e/playlist.m3u8",
+      "op": {
+        "start": 54.3,
+        "end": 144.3
+      }
     },
     {
       "ep": 16,
       "title": "「壯烈成仁」 其二",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_016.jpg",
-      "url": "https://xgct-video.bzcdn.net/d0dd9031-42fa-4288-82cd-c58ce54e8a3b/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/d0dd9031-42fa-4288-82cd-c58ce54e8a3b/playlist.m3u8",
+      "op": {
+        "start": 16.4,
+        "end": 106.4
+      }
     },
     {
       "ep": 17,
       "title": "娃娃臉",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_017.jpg",
-      "url": "https://xgct-video.bzcdn.net/4e06ac5f-e85e-42c1-967f-a7e7fc0bd522/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/4e06ac5f-e85e-42c1-967f-a7e7fc0bd522/playlist.m3u8",
+      "op": {
+        "start": 196.6,
+        "end": 286.6
+      }
     },
     {
       "ep": 18,
       "title": "前往威尼斯！",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_018.jpg",
-      "url": "https://xgct-video.bzcdn.net/d302fa87-b9ef-4cb9-a2c9-f31f0f3e2621/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/d302fa87-b9ef-4cb9-a2c9-f31f0f3e2621/playlist.m3u8",
+      "op": {
+        "start": 73.7,
+        "end": 163.7
+      }
     },
     {
       "ep": 19,
       "title": "白色相簿",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_019.jpg",
-      "url": "https://xgct-video.bzcdn.net/5f190b4d-6c0d-4903-8823-bbd8e08ad222/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/5f190b4d-6c0d-4903-8823-bbd8e08ad222/playlist.m3u8",
+      "op": {
+        "start": 115.7,
+        "end": 205.7
+      }
     },
     {
       "ep": 20,
       "title": "來自老闆的最終指令",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_020.jpg",
-      "url": "https://xgct-video.bzcdn.net/bb812a00-0cac-496b-b228-ca5ed42ce44f/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/bb812a00-0cac-496b-b228-ca5ed42ce44f/playlist.m3u8",
+      "op": {
+        "start": 16.4,
+        "end": 106.4
+      }
     },
     {
       "ep": 21,
       "title": "緋紅之王的謎題",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_021.jpg",
-      "url": "https://xgct-video.bzcdn.net/736a1872-d603-4389-afed-0990b9ae9aa8/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/736a1872-d603-4389-afed-0990b9ae9aa8/playlist.m3u8",
+      "op": {
+        "start": 16.4,
+        "end": 106.4
+      }
     },
     {
       "ep": 22,
       "title": "充滿幹勁的「G」",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_022.jpg",
-      "url": "https://xgct-video.bzcdn.net/f106ea68-447a-4aad-a2af-9afe9095c351/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/f106ea68-447a-4aad-a2af-9afe9095c351/playlist.m3u8",
+      "op": {
+        "start": 67.6,
+        "end": 159.6
+      }
     },
     {
       "ep": 23,
       "title": "衝擊與面部特寫",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_023.jpg",
-      "url": "https://xgct-video.bzcdn.net/a4579895-b9b3-4b85-b5df-35378b4a6e89/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/a4579895-b9b3-4b85-b5df-35378b4a6e89/playlist.m3u8",
+      "op": {
+        "start": 109.6,
+        "end": 201.6
+      }
     },
     {
       "ep": 24,
       "title": "臭名昭著的B・I・G",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_024.jpg",
-      "url": "https://xgct-video.bzcdn.net/43dec859-80f2-471a-aac9-1fd329dae574/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/43dec859-80f2-471a-aac9-1fd329dae574/playlist.m3u8",
+      "op": {
+        "start": 70.7,
+        "end": 162.7
+      }
     },
     {
       "ep": 25,
       "title": "辣妹",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_025.jpg",
-      "url": "https://xgct-video.bzcdn.net/b6863329-f534-480d-8749-dc2bb153595c/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/b6863329-f534-480d-8749-dc2bb153595c/playlist.m3u8",
+      "op": {
+        "start": 23.6,
+        "end": 115.6
+      }
     },
     {
       "ep": 26,
       "title": "不算太久以前的故事 ～我叫託比歐～",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_026.jpg",
-      "url": "https://xgct-video.bzcdn.net/67e1a521-6801-4fbe-ab62-eebc7f6d95b6/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/67e1a521-6801-4fbe-ab62-eebc7f6d95b6/playlist.m3u8",
+      "op": {
+        "start": 1.0,
+        "end": 93.0
+      }
     },
     {
       "ep": 27,
       "title": "緋紅之王VS金屬製品",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_027.jpg",
-      "url": "https://xgct-video.bzcdn.net/85fbf508-b270-415c-9af2-0057295fa6de/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/85fbf508-b270-415c-9af2-0057295fa6de/playlist.m3u8",
+      "op": {
+        "start": 28.7,
+        "end": 120.7
+      }
     },
     {
       "ep": 28,
       "title": "在那看似即將墜落的天空下",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_028.jpg",
-      "url": "https://xgct-video.bzcdn.net/72499e32-3950-433a-ad46-62544a5f079f/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/72499e32-3950-433a-ad46-62544a5f079f/playlist.m3u8",
+      "op": {
+        "start": 1.0,
+        "end": 93.0
+      }
     },
     {
       "ep": 29,
       "title": "目的地是羅馬！鬥獸場",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_029.jpg",
-      "url": "https://xgct-video.bzcdn.net/9788f27f-15da-45f5-8d04-7df004057c91/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/9788f27f-15da-45f5-8d04-7df004057c91/playlist.m3u8",
+      "op": {
+        "start": 99.3,
+        "end": 191.3
+      }
     },
     {
       "ep": 30,
       "title": "青春歲月和綠洲 其一",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_030.jpg",
-      "url": "https://xgct-video.bzcdn.net/9d5ab974-f15c-4b1c-a0d2-b3c919dd6208/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/9d5ab974-f15c-4b1c-a0d2-b3c919dd6208/playlist.m3u8",
+      "op": {
+        "start": 133.1,
+        "end": 225.1
+      }
     },
     {
       "ep": 31,
       "title": "青春歲月和綠洲 其二",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_031.jpg",
-      "url": "https://xgct-video.bzcdn.net/b83c2719-c9b9-4453-836d-8ad59dc514a0/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/b83c2719-c9b9-4453-836d-8ad59dc514a0/playlist.m3u8",
+      "op": {
+        "start": 53.2,
+        "end": 145.2
+      }
     },
     {
       "ep": 32,
       "title": "青春歲月和綠洲 其三",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_032.jpg",
-      "url": "https://xgct-video.bzcdn.net/fd7c4dbb-e5ad-4470-8baf-e5d9c4bf416f/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/fd7c4dbb-e5ad-4470-8baf-e5d9c4bf416f/playlist.m3u8",
+      "op": {
+        "start": 61.4,
+        "end": 153.4
+      }
     },
     {
       "ep": 33,
       "title": "其名為迪亞波羅",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_033.jpg",
-      "url": "https://xgct-video.bzcdn.net/9ada333d-d498-4f53-8a4b-eabeb2f542fd/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/9ada333d-d498-4f53-8a4b-eabeb2f542fd/playlist.m3u8",
+      "op": {
+        "start": 75.8,
+        "end": 167.8
+      }
     },
     {
       "ep": 34,
       "title": "鎮魂曲沉靜地演奏著 其一",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_034.jpg",
-      "url": "https://xgct-video.bzcdn.net/1fab34b5-c5a9-4829-9307-cada5a58eaa7/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/1fab34b5-c5a9-4829-9307-cada5a58eaa7/playlist.m3u8",
+      "op": {
+        "start": 104.4,
+        "end": 196.4
+      }
     },
     {
       "ep": 35,
       "title": "鎮魂曲沉靜地演奏著 其二",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_035.jpg",
-      "url": "https://xgct-video.bzcdn.net/4e07f7e9-5ff3-4b99-a0c7-42c69b5eb2f4/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/4e07f7e9-5ff3-4b99-a0c7-42c69b5eb2f4/playlist.m3u8",
+      "op": {
+        "start": 24.6,
+        "end": 116.6
+      }
     },
     {
       "ep": 36,
       "title": "迪亞波羅現身",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_036.jpg",
-      "url": "https://xgct-video.bzcdn.net/83b439c2-f36e-4dec-a4a3-cc4da5bf7ddd/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/83b439c2-f36e-4dec-a4a3-cc4da5bf7ddd/playlist.m3u8",
+      "op": {
+        "start": 53.2,
+        "end": 145.2
+      }
     },
     {
       "ep": 37,
       "title": "王中之王",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_037.jpg",
-      "url": "https://xgct-video.bzcdn.net/0b1007c2-d5c8-49fb-8d62-24647e926887/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/0b1007c2-d5c8-49fb-8d62-24647e926887/playlist.m3u8",
+      "op": {
+        "start": 39.9,
+        "end": 131.9
+      }
     },
     {
       "ep": 38,
       "title": "黃金體驗鎮魂曲",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_038.jpg",
-      "url": "https://xgct-video.bzcdn.net/bb967e33-ba3f-4258-8064-5c06e286906e/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/bb967e33-ba3f-4258-8064-5c06e286906e/playlist.m3u8",
+      "op": {
+        "start": 61.4,
+        "end": 153.4
+      }
     },
     {
       "ep": 39,
       "title": "沉睡的奴隸",
       "thumb": "thumbs/jojo_golden_wind_riyu/ep_039.jpg",
-      "url": "https://xgct-video.bzcdn.net/d34c98b3-a34e-45c0-9967-8cccac04d96c/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/d34c98b3-a34e-45c0-9967-8cccac04d96c/playlist.m3u8",
+      "op": {
+        "start": 3.1,
+        "end": 95.1
+      }
     }
   ]
 }

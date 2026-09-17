@@ -8,43 +8,71 @@
       "ep": 1,
       "title": "只能打麻將的梨子",
       "thumb": "thumbs/pengzhidaoriyu-nanchuandama/ep_001.jpg",
-      "url": "https://xgct-video.bzcdn.net/051f411f-4b7a-40c3-8a1c-ebc94efac6c8/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/051f411f-4b7a-40c3-8a1c-ebc94efac6c8/playlist.m3u8",
+      "op": {
+        "start": 426.0,
+        "end": 507.0
+      }
     },
     {
       "ep": 2,
       "title": "湊齊4人了",
       "thumb": "thumbs/pengzhidaoriyu-nanchuandama/ep_002.jpg",
-      "url": "https://xgct-video.bzcdn.net/2508eccb-028d-4d3d-904c-248f6c1eceb9/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/2508eccb-028d-4d3d-904c-248f6c1eceb9/playlist.m3u8",
+      "op": {
+        "start": 22.0,
+        "end": 110.0
+      }
     },
     {
       "ep": 3,
       "title": "一起吃飯吧",
       "thumb": "thumbs/pengzhidaoriyu-nanchuandama/ep_003.jpg",
-      "url": "https://xgct-video.bzcdn.net/dd045ff2-aef9-4502-8479-394a7083bff6/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/dd045ff2-aef9-4502-8479-394a7083bff6/playlist.m3u8",
+      "op": {
+        "start": 45.0,
+        "end": 127.0
+      }
     },
     {
       "ep": 4,
       "title": "流量不夠了",
       "thumb": "thumbs/pengzhidaoriyu-nanchuandama/ep_004.jpg",
-      "url": "https://xgct-video.bzcdn.net/9f05b1f7-7654-4dfe-8d6c-4ba8a999f554/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/9f05b1f7-7654-4dfe-8d6c-4ba8a999f554/playlist.m3u8",
+      "op": {
+        "start": 77.0,
+        "end": 158.0
+      }
     },
     {
       "ep": 5,
       "title": "那傢伙來了！",
       "thumb": "thumbs/pengzhidaoriyu-nanchuandama/ep_005.jpg",
-      "url": "https://xgct-video.bzcdn.net/2f21586c-dd66-4db2-9463-9b05f57a66e4/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/2f21586c-dd66-4db2-9463-9b05f57a66e4/playlist.m3u8",
+      "op": {
+        "start": 53.0,
+        "end": 135.0
+      }
     },
     {
       "ep": 6,
       "title": "合宿！",
       "thumb": "thumbs/pengzhidaoriyu-nanchuandama/ep_006.jpg",
-      "url": "https://xgct-video.bzcdn.net/946e44b0-1ebb-4fc7-ac61-f7be7604414d/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/946e44b0-1ebb-4fc7-ac61-f7be7604414d/playlist.m3u8",
+      "op": {
+        "start": 87.0,
+        "end": 168.0
+      }
     },
     {
       "ep": 7,
       "title": "8月1日（派之日）",
       "thumb": "thumbs/pengzhidaoriyu-nanchuandama/ep_007.jpg",
-      "url": "https://xgct-video.bzcdn.net/bf1bf5d7-dfc7-4040-9202-6cbe88e914f6/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/bf1bf5d7-dfc7-4040-9202-6cbe88e914f6/playlist.m3u8",
+      "op": {
+        "start": 83.0,
+        "end": 164.0
+      }
     },
     {
       "ep": 8,
@@ -56,25 +84,41 @@
       "ep": 9,
       "title": "一起扮鬼吧",
       "thumb": "thumbs/pengzhidaoriyu-nanchuandama/ep_009.jpg",
-      "url": "https://xgct-video.bzcdn.net/212b1438-008f-4da4-9157-93ab459a31f0/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/212b1438-008f-4da4-9157-93ab459a31f0/playlist.m3u8",
+      "op": {
+        "start": 94.0,
+        "end": 176.0
+      }
     },
     {
       "ep": 10,
       "title": "一起度過聖誕節",
       "thumb": "thumbs/pengzhidaoriyu-nanchuandama/ep_010.jpg",
-      "url": "https://xgct-video.bzcdn.net/9d77b58d-700a-451b-b8e5-4649510e4cdc/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/9d77b58d-700a-451b-b8e5-4649510e4cdc/playlist.m3u8",
+      "op": {
+        "start": 103.0,
+        "end": 185.0
+      }
     },
     {
       "ep": 11,
       "title": "新年快樂",
       "thumb": "thumbs/pengzhidaoriyu-nanchuandama/ep_011.jpg",
-      "url": "https://xgct-video.bzcdn.net/2ecde990-7404-49fa-8c7f-6cb400c06cfc/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/2ecde990-7404-49fa-8c7f-6cb400c06cfc/playlist.m3u8",
+      "op": {
+        "start": 75.0,
+        "end": 156.0
+      }
     },
     {
       "ep": 12,
       "title": "麻將桌的女兒們",
       "thumb": "thumbs/pengzhidaoriyu-nanchuandama/ep_012.jpg",
-      "url": "https://xgct-video.bzcdn.net/486e117a-2bcc-4c33-b4cc-688bf62c23e4/playlist.m3u8"
+      "url": "https://xgct-video.bzcdn.net/486e117a-2bcc-4c33-b4cc-688bf62c23e4/playlist.m3u8",
+      "op": {
+        "start": 196.6,
+        "end": 278.6
+      }
     }
   ]
 }
