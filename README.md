@@ -2,12 +2,14 @@
 AIGC:
     Label: "1"
     ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 5390991e442c1cc0a64dcd85c8a2ecc3_b533a0e8b0e411f18874525400287e28
-    ReservedCode1: 18YuPmR0P1vFtoZ6SliJclHIMd5wNQgQVOBRPkt72QNm/vk2qMekz7xuHh69xOe/OqnBnnwVIXX6G+yRV19oG+yvEu5xKTLqd6DG10oOhVY7K4ptvkcE1Vie+s9QBon8yjHB/4GSKqilJdOg9x4KU6uP4AByJirPevle4ZFc0ZcYYHHFo3uzYKM3a4E=
+    ProduceID: 5390991e442c1cc0a64dcd85c8a2ecc3_17da3331b1d311f19482525400393706
+    ReservedCode1: NJeIKcuLJfoH0AC3zvWOBO66fYnUfPH88R4buasKZfUS+oK2E0JZ02xRjyM4wdZSokZXepQWS/myREaicwrMf3+xZfFquOdrwa5ASvlnkuf1DTqcl4UqKMh6JFotIPDDdGx9fC05bPjBEENc4O+l2x3GNDb72kR/QK22CMcqwg6mTkzxixwVgC0vJFQ=
     ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 5390991e442c1cc0a64dcd85c8a2ecc3_b533a0e8b0e411f18874525400287e28
-    ReservedCode2: 18YuPmR0P1vFtoZ6SliJclHIMd5wNQgQVOBRPkt72QNm/vk2qMekz7xuHh69xOe/OqnBnnwVIXX6G+yRV19oG+yvEu5xKTLqd6DG10oOhVY7K4ptvkcE1Vie+s9QBon8yjHB/4GSKqilJdOg9x4KU6uP4AByJirPevle4ZFc0ZcYYHHFo3uzYKM3a4E=
+    PropagateID: 5390991e442c1cc0a64dcd85c8a2ecc3_17da3331b1d311f19482525400393706
+    ReservedCode2: NJeIKcuLJfoH0AC3zvWOBO66fYnUfPH88R4buasKZfUS+oK2E0JZ02xRjyM4wdZSokZXepQWS/myREaicwrMf3+xZfFquOdrwa5ASvlnkuf1DTqcl4UqKMh6JFotIPDDdGx9fC05bPjBEENc4O+l2x3GNDb72kR/QK22CMcqwg6mTkzxixwVgC0vJFQ=
 ---
+
+
 
 
 
@@ -88,6 +90,8 @@ thumbs/<id>/ep_001.jpg    # 各集縮圖
 | gundam_hathaway_kirke_riyu | 機動戰士高達：閃光的哈薩維 喀耳刻的魔女【日語】 | 1 |
 | jojo_golden_wind_riyu | JOJO的奇妙冒險 黃金之風（JOJO's Bizarre Adventure Golden Wind）（4K）【日語】 | 39 |
 | kakegurui_riyu | 狂賭之淵（狂徒之淵）第1-2季【日語】 | 24 |
+| pengzhidaoriyu-nanchuandama | 碰之道【日語】 | 12 |
+*（内容由AI生成，仅供参考）*
 *（内容由AI生成，仅供参考）*
 *（内容由AI生成，仅供参考）*
 *（内容由AI生成，仅供参考）*
