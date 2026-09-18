@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updated": "2026-09-17",
+  "updated": "2026-09-18",
   "shows": [
+    {
+      "id": "feidandeyaliyariyu-chisongzhongxue",
+      "title": "緋彈的亞里亞（緋彈的亞莉亞）【日語】",
+      "titleEn": "Aria the Scarlet Ammo",
+      "cover": "thumbs/feidandeyaliyariyu-chisongzhongxue/cover.jpg",
+      "source": "shows/feidandeyaliyariyu-chisongzhongxue.json",
+      "episodeCount": 12
+    },
     {
       "id": "steins_gate",
       "title": "命運石之門",

@@ -1,0 +1,128 @@
+{
+    "id": "feidandeyaliyariyu-chisongzhongxue",
+    "title": "\u7dcb\u5f48\u7684\u4e9e\u91cc\u4e9e\uff08\u7dcb\u5f48\u7684\u4e9e\u8389\u4e9e\uff09\u3010\u65e5\u8a9e\u3011",
+    "titleEn": "Aria the Scarlet Ammo",
+    "cover": "thumbs/feidandeyaliyariyu-chisongzhongxue/cover.jpg",
+    "episodes": [
+        {
+            "ep": 1,
+            "title": "\u5f9e\u5929\u800c\u964d\u7684\u5c11\u5973",
+            "thumb": "thumbs/feidandeyaliyariyu-chisongzhongxue/ep_001.jpg",
+            "url": "https://xgct-video.bzcdn.net/c447b5e8-ee6c-431e-8bb9-0aca34d37a09/playlist.m3u8",
+            "op": {
+                "start": 155.0,
+                "end": 265.0
+            }
+        },
+        {
+            "ep": 2,
+            "title": "\u96d9\u528d\u96d9\u69cd\u7684\u4e9e\u91cc\u4e9e",
+            "thumb": "thumbs/feidandeyaliyariyu-chisongzhongxue/ep_002.jpg",
+            "url": "https://xgct-video.bzcdn.net/ef614028-ca47-47aa-a93d-f9d755dea75d/playlist.m3u8",
+            "op": {
+                "start": 0.0,
+                "end": 115.0
+            }
+        },
+        {
+            "ep": 3,
+            "title": "\u521d\u6b21\u4efb\u52d9",
+            "thumb": "thumbs/feidandeyaliyariyu-chisongzhongxue/ep_003.jpg",
+            "url": "https://xgct-video.bzcdn.net/bb9f6cf3-426b-4d5d-ad95-60a948c814b4/playlist.m3u8",
+            "op": {
+                "start": 0.0,
+                "end": 115.0
+            }
+        },
+        {
+            "ep": 4,
+            "title": "\u6b66\u5075\u6bba\u624b",
+            "thumb": "thumbs/feidandeyaliyariyu-chisongzhongxue/ep_004.jpg",
+            "url": "https://xgct-video.bzcdn.net/35818709-b85a-405c-8298-351385a2f8b7/playlist.m3u8",
+            "op": {
+                "start": 0.0,
+                "end": 118.0
+            }
+        },
+        {
+            "ep": 5,
+            "title": "\u6b66\u5075\u61b2\u7ae0\u7b2c\u4e00\u689d",
+            "thumb": "thumbs/feidandeyaliyariyu-chisongzhongxue/ep_005.jpg",
+            "url": "https://xgct-video.bzcdn.net/c61a6fdf-c42b-4161-979c-ebc250342715/playlist.m3u8",
+            "op": {
+                "start": 0.0,
+                "end": 115.0
+            }
+        },
+        {
+            "ep": 6,
+            "title": "\u661f\u4f3d\u5deb\u5973",
+            "thumb": "thumbs/feidandeyaliyariyu-chisongzhongxue/ep_006.jpg",
+            "url": "https://xgct-video.bzcdn.net/b1b1521b-9f60-4789-ab67-c6ada152fe73/playlist.m3u8",
+            "op": {
+                "start": 0.0,
+                "end": 115.0
+            }
+        },
+        {
+            "ep": 7,
+            "title": "\u7c60\u4e2d\u9ce5",
+            "thumb": "thumbs/feidandeyaliyariyu-chisongzhongxue/ep_007.jpg",
+            "url": "https://xgct-video.bzcdn.net/8c6671b9-32a8-4cc7-931c-29bb8e7ee5d7/playlist.m3u8",
+            "op": {
+                "start": 0.0,
+                "end": 89.0
+            }
+        },
+        {
+            "ep": 8,
+            "title": "\u9b54\u528d",
+            "thumb": "thumbs/feidandeyaliyariyu-chisongzhongxue/ep_008.jpg",
+            "url": "https://xgct-video.bzcdn.net/cae8667c-ad0f-4c42-845f-0d0dff16d104/playlist.m3u8",
+            "op": {
+                "start": 0.0,
+                "end": 115.0
+            }
+        },
+        {
+            "ep": 9,
+            "title": "\u8702\u871c\u8272\u7684\u9677\u9631",
+            "thumb": "thumbs/feidandeyaliyariyu-chisongzhongxue/ep_009.jpg",
+            "url": "https://xgct-video.bzcdn.net/c97b197e-3261-482d-bf0a-91741fac91b7/playlist.m3u8",
+            "op": {
+                "start": 0.0,
+                "end": 118.0
+            }
+        },
+        {
+            "ep": 10,
+            "title": "\u7279\u8a13",
+            "thumb": "thumbs/feidandeyaliyariyu-chisongzhongxue/ep_010.jpg",
+            "url": "https://xgct-video.bzcdn.net/063380e5-852a-4e4b-a5e7-e9a0aa401d10/playlist.m3u8",
+            "op": {
+                "start": 0.0,
+                "end": 115.0
+            }
+        },
+        {
+            "ep": 11,
+            "title": "\u6f5b\u5165",
+            "thumb": "thumbs/feidandeyaliyariyu-chisongzhongxue/ep_011.jpg",
+            "url": "https://xgct-video.bzcdn.net/3d02d41d-fbd0-4a3a-be83-02baf707b7cd/playlist.m3u8",
+            "op": {
+                "start": 0.0,
+                "end": 115.0
+            }
+        },
+        {
+            "ep": 12,
+            "title": "\u5f17\u62c9\u5fb7",
+            "thumb": "thumbs/feidandeyaliyariyu-chisongzhongxue/ep_012.jpg",
+            "url": "https://xgct-video.bzcdn.net/98a24dd7-059f-4b5d-8816-9773fe269430/playlist.m3u8",
+            "op": {
+                "start": 0.0,
+                "end": 115.0
+            }
+        }
+    ]
+}
