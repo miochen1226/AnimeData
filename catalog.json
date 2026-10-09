@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-18",
+  "updated": "2026-10-09",
   "shows": [
     {
       "id": "feidandeyaliyariyu-chisongzhongxue",
@@ -81,6 +81,14 @@
       "cover": "thumbs/pengzhidaoriyu-nanchuandama/cover.jpg",
       "source": "shows/pengzhidaoriyu-nanchuandama.json",
       "episodeCount": 12
+    },
+    {
+      "id": "psycho_pass_riyu",
+      "title": "心理測量者（心靈判官、Psycho-Pass）第1-3季【日語】",
+      "titleEn": "Psycho-Pass",
+      "cover": "thumbs/psycho_pass_riyu/cover.jpg",
+      "source": "shows/psycho_pass_riyu.json",
+      "episodeCount": 41
     }
   ]
 }

@@ -91,6 +91,7 @@ thumbs/<id>/ep_001.jpg    # 各集縮圖
 | jojo_golden_wind_riyu | JOJO的奇妙冒險 黃金之風（JOJO's Bizarre Adventure Golden Wind）（4K）【日語】 | 39 |
 | kakegurui_riyu | 狂賭之淵（狂徒之淵）第1-2季【日語】 | 24 |
 | pengzhidaoriyu-nanchuandama | 碰之道【日語】 | 12 |
+| psycho_pass_riyu | 心理測量者（心靈判官、Psycho-Pass）第1-3季【日語】 | 41 |
 *（内容由AI生成，仅供参考）*
 *（内容由AI生成，仅供参考）*
 *（内容由AI生成，仅供参考）*
